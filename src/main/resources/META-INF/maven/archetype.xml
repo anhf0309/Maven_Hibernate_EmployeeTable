@@ -1,0 +1,9 @@
+<archetype>
+  <id>AGLAB305.4.3B</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
